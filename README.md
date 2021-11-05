@@ -1,1 +1,1 @@
-# uptext
+You Can Use This Package for Capitalize Each Word.
