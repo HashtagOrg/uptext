@@ -1,7 +1,7 @@
 {
   "name": "uptext",
-  "version": "1.0.5",
-  "homepage": "https://github.com/HashtagOrg",
+  "version": "1.0.6",
+  "Homepage": "https://github.com/HashtagOrg",
   "description": "You can capitalize your text",
   "main": "index.js",
   "scripts": {

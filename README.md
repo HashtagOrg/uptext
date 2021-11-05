@@ -210,4 +210,4 @@ export default function Header() {
 > **NOTE:** For Example: capText("hello")
 
 ## License
-ISC License
+MIT License
