@@ -1,3 +1,8 @@
+function uppText(text) {
+    let paragraph = text;
+    return paragraph.toUpperCase();
+}
+
 function capText(text) {
     let words = text.split(' ');
     let CapitalizedWords = [];
@@ -7,4 +12,9 @@ function capText(text) {
     return CapitalizedWords.join(' ');
 }
 
-module.exports = capText;
+function lowText(text) {
+    let paragraph = text;
+    return paragraph.toLowerCase();
+}
+
+module.exports = { uppText, capText, lowText };
