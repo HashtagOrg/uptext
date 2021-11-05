@@ -41,7 +41,7 @@ capText(text)
 console.log(capText(text))
 
 // Results
-Output: Hello, I'm Using Uptext To Capitalize Each Word First Letter
+// Output: Hello, I'm Using Uptext To Capitalize Each Word First Letter
 
 ```
 
@@ -71,6 +71,7 @@ export default function Header() {
 
 
 > **NOTE:** The `text` should be a string, you need to pass a string as an argument.
+> Example: capText("hello")
 
 ## License
 ISC License
