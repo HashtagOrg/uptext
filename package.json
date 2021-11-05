@@ -1,6 +1,6 @@
 {
   "name": "uptext",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "Homepage": "https://github.com/HashtagOrg",
   "description": "You can capitalize your text",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "capitalize"
   ],
   "author": "https://github.com/HashtagOrg",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/HashtagOrg/uptext/issues"
   },
