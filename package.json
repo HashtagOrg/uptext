@@ -1,0 +1,25 @@
+{
+  "name": "uptext",
+  "version": "1.0.0",
+  "description": "You can capitalize your text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HashtagOrg/uptext.git"
+  },
+  "keywords": [
+    "up",
+    "text",
+    "uptext",
+    "capitalize"
+  ],
+  "author": "https://github.com/HashtagOrg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HashtagOrg/uptext/issues"
+  },
+  "homepage": "https://github.com/HashtagOrg/uptext#readme"
+}
